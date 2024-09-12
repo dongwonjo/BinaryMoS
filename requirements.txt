@@ -1,0 +1,10 @@
+numpy==1.26.3
+torch==2.1.0
+transformers==4.36.2
+datasets==2.16.1
+lm-eval==0.3.0
+accelerate==0.25.0
+tensorboardX
+bitsandbytes
+sentencepiece
+tqdm
