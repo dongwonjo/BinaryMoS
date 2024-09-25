@@ -43,7 +43,7 @@ def main(args):
     
     # Load dataset
     print(f"Prepare training data ({args.dataset})")
-    datasets, data_collator = get_qat_dataset(args.dataset, tokenizer, args.cache_dir)
+    datasets, data_collator = get_qat_dataset(args.dataset, tokenizer)
     
     # Define training arguments
     training_args = TrainingArguments(
