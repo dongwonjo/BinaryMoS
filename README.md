@@ -9,7 +9,7 @@
 </div>
 
 
-This is the official repository of "Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models".
+This is the official repository of "Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models" (NeurIPS 2024).
 * Unlike conventional methods, BinaryMoS employs multiple scaling experts for binary weights, dynamically merging these experts for each token to adaptively generate scaling factors.
 * Token-adaptive scaling factor boosts the representational power of binarized LLMs with minimal memory overhead.
 * Our experimental results reveal that BinaryMoS surpasses conventional binarization techniques in various natural language processing tasks and even out performs 2-bit quantization methods.
