@@ -9,7 +9,7 @@
 </div>
 
 
-This is the official repository of **"Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models"** accepted to **NeurIPS 2024**. 
+This is the official repository of **"Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models"** accepted to **NeurIPS 2024**
 
 
 * Unlike conventional methods, BinaryMoS employs multiple scaling experts for binary weights, dynamically merging these experts for each token to adaptively generate scaling factors.
