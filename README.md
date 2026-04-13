@@ -1,4 +1,4 @@
-# Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models
+# [NeurIPS 2024] Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models
 
 <p align="middle">
     <a href="https://arxiv.org/abs/2406.12311"><img src="https://img.shields.io/badge/arXiv-2406.12311-b31b1b.svg" alt="arXiv"/></a>
